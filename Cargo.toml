@@ -1,0 +1,11 @@
+[workspace]
+
+members = [
+    "riscv-rt",
+    "e310x-hal",
+    "riscv-rust-quickstart",
+]
+
+[patch.crates-io]
+riscv-rt = { path = "riscv-rt" }
+e310x-hal = { path = "e310x-hal" }

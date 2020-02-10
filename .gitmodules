@@ -1,0 +1,9 @@
+[submodule "riscv-rt"]
+	path = riscv-rt
+	url = https://github.com/rust-embedded/riscv-rt.git
+[submodule "e310x-hal"]
+	path = e310x-hal
+	url = https://github.com/riscv-rust/e310x-hal.git
+[submodule "riscv-rust-quickstart"]
+	path = riscv-rust-quickstart
+	url = https://github.com/riscv-rust/riscv-rust-quickstart.git
